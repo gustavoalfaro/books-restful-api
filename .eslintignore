@@ -1,0 +1,5 @@
+seeders
+migrations
+lib
+
+.env
